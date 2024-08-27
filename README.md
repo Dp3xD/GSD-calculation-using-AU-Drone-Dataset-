@@ -1,3 +1,6 @@
+# GSD-calculation-using-AU-Drone-Dataset-
+Repository for Machine Learning project - 2024
+
 – Objective: Developed a methodology to calculate Ground Sample Distance (GSD) using linear regression on UAV aerial imagery.
 
 – Process of Implementation: Collected video frames, applied Gaussian blur, annotated objects, extracted features, and built a linear regression model for GSD calculation.

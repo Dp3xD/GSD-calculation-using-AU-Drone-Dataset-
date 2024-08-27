@@ -1,4 +1,4 @@
-# GSD-calculation-using-AU-Drone-Dataset-
+# GSD calculation using AU Drone Dataset
 Repository for Machine Learning project - 2024
 
 – Objective: Developed a methodology to calculate Ground Sample Distance (GSD) using linear regression on UAV aerial imagery.
